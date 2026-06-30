@@ -1,0 +1,23 @@
+{
+  "name": "lau-cua-79-api",
+  "version": "6.0.0",
+  "description": "Lẩu Cua 79 - Advanced Tài Xỉu Prediction API Siêu Cấp v6",
+  "main": "lc.js",
+  "scripts": {
+    "start": "node lc.js",
+    "dev": "nodemon lc.js"
+  },
+  "keywords": [
+    "tai-xiu",
+    "prediction",
+    "api",
+    "bot",
+    "lau-cua-79"
+  ],
+  "author": "@tiendataox",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  }
+}
